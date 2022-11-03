@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Li J (李京航）
+- 👋 Hi, I’m Li Jinghang (李京航）
 - 👀 I’m interested in 7Tesla MRI, RF engineering and deep learning
 - 🌱 I’m currently a Bioengineering PhD student at the University of Pittsburgh
 - 📫 You can reach me at jil202@pitt.edu
